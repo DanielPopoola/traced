@@ -1,3 +1,3 @@
-module github.com/DanielPopoola/span_ingestion
+module github.com/DanielPopoola/traced
 
 go 1.25.4
