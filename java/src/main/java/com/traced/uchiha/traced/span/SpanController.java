@@ -13,11 +13,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-public class SpanContoller {
+public class SpanController {
 
     private final TraceStore store;
 
-    public SpanContoller(TraceStore store) {
+    public SpanController(TraceStore store) {
         this.store = store;
     }
 
