@@ -99,8 +99,8 @@ Full contract available at `http://localhost:8081/docs` after starting the dashb
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/DanielPopoola/span_ingestion
-cd span_ingestion
+git clone https://github.com/DanielPopoola/traced
+cd traced
 
 # 2. Configure environment
 cp .env.example .env
